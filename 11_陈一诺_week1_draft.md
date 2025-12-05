@@ -23,9 +23,9 @@
 
 **截图**：
 （Ubuntu 系统安装日志、Windows + Ubuntu 双系统启动菜单截图、Ubuntu桌面截图）
-![日志](log.png)
-![双系统启动菜单截图](startup_menu.jpg)
-![Ubuntu桌面截图](desktop.png)
+![日志](pics/log.png)
+![双系统启动菜单截图](pics/startup_menu.jpg)
+![Ubuntu桌面截图](pics/desktop.png)
 
 ### 2.2 VSCode安装与C++环境配置
 **主要步骤**：
